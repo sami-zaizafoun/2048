@@ -1,2 +1,2 @@
 # 2048
-Projet L2 Jeu de 2048
+Projet L1 Jeu de 2048
